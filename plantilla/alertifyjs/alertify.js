@@ -47,7 +47,7 @@
             closeButton:false
         },
         glossary:{
-            title:'DEPARTAMENTO DE EDUCACION - BECAS 2022',
+            title:'DEPARTAMENTO DE JUVENTUD - BECAS',
             ok: 'OK',
             cancel: 'Cancelar',
             acccpt: 'Accept',

@@ -15,6 +15,6 @@
 	
 	<div class="clearfix"></div>
 		<footer>
-			<p class="copyright"><a href="https://www.themeineed.com" target="_blank">Todos los derechos reservados &copy; 2022.</a>
+			<p class="copyright"><a href="https://www.themeineed.com" target="_blank">TODOS LOS DERECHOS RESERVADOS &copy; 2022.</a>
 			PÁGINA DESARROLLADA POR: AARÓN VILLALTA.</p>
 		</footer>

@@ -16,5 +16,5 @@
 	<div class="clearfix"></div>
 		<footer>
 			<p class="copyright"><a href="https://www.themeineed.com" target="_blank">Todos los derechos reservados &copy; 2022.</a>
-			Página desarrollada por: Aarón Contreras.</p>
+			PÁGINA DESARROLLADA POR: AARÓN VILLALTA.</p>
 		</footer>

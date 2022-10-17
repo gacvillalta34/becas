@@ -35,7 +35,7 @@
 						<div class="tab-pane fade in active" id="myprofile">
 							<div class="profile-section">
 								<h2 class="profile-heading">DESARROLADO POR:</h2>
-								<h1>AARÓN CONTRERAS</h1>
+								<h1>AARÓN VILLALTA</h1>
 								<img src="plantilla/images/aaron_contreras.jpg"
 								alt="User Profile Picture" height="380" width="380">
 					

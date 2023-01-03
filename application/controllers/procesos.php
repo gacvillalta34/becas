@@ -87,12 +87,11 @@
 	$estado1 = $_POST['est3'];
 	$registro = mysql_query("SELECT * FROM estudiantes WHERE dui_carnet_minoridad = '$dui1'", $conect)
 	or die("Problemas al realizar la consulta:".mysql_error());
+       if($registros = @mysql_fetch_array($registro)){
 	$mod= mysql_query("UPDATE estudiantes SET nombre = '$nombres1', edad = '$edad1',
 	dui_carnet_minoridad = '$act_car_dui1', direccion = '$direccion1', institucion_ingreso ='$universidad1', carrera = '$carrera1',
 	year_academico = '$año_aca1', celular = '$celular1', correo = '$correo1', observaciones = '$observaciones1',
 	estado = '$estado1' WHERE dui_carnet_minoridad = '$dui1'", $conect);
-       if($registro = @mysql_fetch_array($registro)){
-	 
 		echo '<script> alert("Registro modificado.");</script>';
 		echo '<script> window.location="inicio"; </script>';
 	 }
